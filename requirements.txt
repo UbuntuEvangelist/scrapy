@@ -1,4 +1,4 @@
-Twisted>=8.0
+Twisted>=23.10.0rc1
 w3lib>=1.2
 queuelib
 lxml
